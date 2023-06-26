@@ -1,0 +1,100 @@
+{
+  "projects": [
+    {
+      "projectId": "caTPwKxj5ZrD9LQ7DMdK4Z",
+      "version": "3.19.1",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "assetId": "caTPwKxj5ZrD9LQ7DMdK4Z",
+          "type": "projectCss",
+          "checksum": "e1ec850476829c38b0f9b6d4f7ac446a"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+      "version": "latest",
+      "dependencies": {
+        "caTPwKxj5ZrD9LQ7DMdK4Z": "3.19.1"
+      },
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "wSb_FPkbE2LPAk",
+          "checksum": "230fc284e18ae9d38e75b89d717d17c5"
+        },
+        {
+          "assetId": "ejbt2NrqsHvgg4iLFGMHN",
+          "type": "projectCss",
+          "checksum": "568b0c5c5ac1fb89ae40bdf9eb3ac219"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "mwsPi1CNXOJf_",
+          "checksum": "79bb7868659c56faca54ebac67406788"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "mwsPi1CNXOJf_",
+          "checksum": "79bb7868659c56faca54ebac67406788"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "mNA3iu8K3v",
+          "checksum": "25c2d56bd8a4af77234645e0edd41eb4"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "mNA3iu8K3v",
+          "checksum": "25c2d56bd8a4af77234645e0edd41eb4"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "Y9FgrnUELZ",
+          "checksum": "e9d7d66469835359260b9a53d79c24cb"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "Y9FgrnUELZ",
+          "checksum": "e9d7d66469835359260b9a53d79c24cb"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "Afrh9tuOkc",
+          "checksum": "6d99f74c3ec804ea286b21b1ff48c60d"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "Afrh9tuOkc",
+          "checksum": "6d99f74c3ec804ea286b21b1ff48c60d"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "grpbNnxcKA",
+          "checksum": "aeddbbe5d49310527cc948fbc153ddb9"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "grpbNnxcKA",
+          "checksum": "aeddbbe5d49310527cc948fbc153ddb9"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "UrlZp224tf",
+          "checksum": "e735e4d86d86a43d9611359f2af0143d"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "UrlZp224tf",
+          "checksum": "e735e4d86d86a43d9611359f2af0143d"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.294"
+}

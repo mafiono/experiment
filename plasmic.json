@@ -1,0 +1,181 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+  },
+  "images": {
+    "scheme": "files",
+    "publicDir": "../../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "caTPwKxj5ZrD9LQ7DMdK4Z",
+      "projectApiToken": "vXGGQpdi9fhcncabBdg8DcMRUbkz0iRW6HS1jzQufQR6QH0MasPwr9SX7ap4SsK3xXwwXmzZtglWGe0Rm2nw",
+      "projectName": "plasmic-basic-components",
+      "version": "3.19.1",
+      "cssFilePath": "plasmic/plasmic_basic_components/plasmic_plasmic_basic_components.module.css",
+      "components": [],
+      "icons": [],
+      "images": [],
+      "indirect": true,
+      "globalContextsFilePath": "",
+      "codeComponents": [
+        {
+          "id": "CMDBvOhaI4s",
+          "name": "Iframe",
+          "displayName": "hostless-iframe",
+          "componentImportPath": "@plasmicpkgs/plasmic-basic-components"
+        },
+        {
+          "id": "RhitNJW5Zu-",
+          "name": "Video",
+          "displayName": "hostless-html-video",
+          "componentImportPath": "@plasmicpkgs/plasmic-basic-components"
+        },
+        {
+          "id": "PKldDYkH42",
+          "name": "Embed",
+          "displayName": "hostless-embed",
+          "componentImportPath": "@plasmicpkgs/plasmic-basic-components"
+        },
+        {
+          "id": "D4RbnlpRXg3",
+          "name": "DataProvider",
+          "displayName": "hostless-data-provider",
+          "componentImportPath": "@plasmicpkgs/plasmic-basic-components"
+        }
+      ]
+    },
+    {
+      "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+      "projectApiToken": "hL7kq19rVlfsHySiQkxV7Pkpc5wZ6EcbcP2Qdtyj1vbGMW1ehqwEEhUlUYCisq3xluev6uSPiVxK1x98Y4dA",
+      "projectName": "Blank project",
+      "version": "latest",
+      "cssFilePath": "plasmic/blank_project/plasmic_blank_project.module.css",
+      "components": [
+        {
+          "id": "mwsPi1CNXOJf_",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicHomepage.tsx",
+          "importSpec": {
+            "modulePath": "Homepage.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "mNA3iu8K3v",
+          "name": "Live",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicLive.tsx",
+          "importSpec": {
+            "modulePath": "Live.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicLive.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "Y9FgrnUELZ",
+          "name": "Prematch",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicPrematch.tsx",
+          "importSpec": {
+            "modulePath": "Prematch.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicPrematch.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "Afrh9tuOkc",
+          "name": "Esports",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicEsports.tsx",
+          "importSpec": {
+            "modulePath": "Esports.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicEsports.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "grpbNnxcKA",
+          "name": "Casino",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicCasino.tsx",
+          "importSpec": {
+            "modulePath": "Casino.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicCasino.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "UrlZp224tf",
+          "name": "LiveCasio",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicLiveCasio.tsx",
+          "importSpec": {
+            "modulePath": "LiveCasio.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicLiveCasio.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        }
+      ],
+      "icons": [],
+      "images": [],
+      "indirect": false,
+      "globalContextsFilePath": "",
+      "codeComponents": [
+        {
+          "id": "Ege_zC6_zY5jOG",
+          "name": "PlasmicHead",
+          "displayName": "hostless-plasmic-head",
+          "componentImportPath": "@plasmicapp/react-web"
+        },
+        {
+          "id": "RPEcfXeDzql4SR",
+          "name": "Fetcher",
+          "displayName": "plasmic-data-source-fetcher",
+          "componentImportPath": "@plasmicapp/react-web/lib/data-sources"
+        }
+      ]
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "wSb_FPkbE2LPAk",
+        "name": "Screen",
+        "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+        "contextFilePath": "plasmic/blank_project/PlasmicGlobalVariant__Screen.tsx"
+      }
+    ]
+  },
+  "wrapPagesWithGlobalContexts": true,
+  "cliVersion": "0.1.294",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.294/dist/plasmic.schema.json"
+}
