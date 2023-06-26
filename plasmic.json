@@ -222,6 +222,45 @@
           "cssFilePath": "plasmic/blank_project/PlasmicContactUs.module.css",
           "scheme": "blackbox",
           "componentType": "page"
+        },
+        {
+          "id": "Nttb067m4D",
+          "name": "Jackpot5000000",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicJackpot5000000.tsx",
+          "importSpec": {
+            "modulePath": "Jackpot5000000.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicJackpot5000000.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "bN2_-ItxMW",
+          "name": "BonusWheel1000000",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicBonusWheel1000000.tsx",
+          "importSpec": {
+            "modulePath": "BonusWheel1000000.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicBonusWheel1000000.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "1tgj2atDfp",
+          "name": "WelcomeBonusUpTo300",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicWelcomeBonusUpTo300.tsx",
+          "importSpec": {
+            "modulePath": "WelcomeBonusUpTo300.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicWelcomeBonusUpTo300.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
         }
       ],
       "icons": [],
