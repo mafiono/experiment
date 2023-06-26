@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "files",
@@ -57,7 +57,8 @@
           "displayName": "hostless-data-provider",
           "componentImportPath": "@plasmicpkgs/plasmic-basic-components"
         }
-      ]
+      ],
+      "jsBundleThemes": []
     },
     {
       "projectId": "ejbt2NrqsHvgg4iLFGMHN",
@@ -141,6 +142,84 @@
             "modulePath": "LiveCasio.tsx"
           },
           "cssFilePath": "plasmic/blank_project/PlasmicLiveCasio.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "5MMMq0eMhp",
+          "name": "Tournaments",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicTournaments.tsx",
+          "importSpec": {
+            "modulePath": "Tournaments.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicTournaments.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "dB6U7wZo1Y",
+          "name": "VirtualSports",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicVirtualSports.tsx",
+          "importSpec": {
+            "modulePath": "VirtualSports.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicVirtualSports.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "5qrMA9HWaD",
+          "name": "AboutUs",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicAboutUs.tsx",
+          "importSpec": {
+            "modulePath": "AboutUs.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicAboutUs.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "-NoW2rTyie",
+          "name": "TermsAndConditions",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicTermsAndConditions.tsx",
+          "importSpec": {
+            "modulePath": "TermsAndConditions.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicTermsAndConditions.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "TwpI3BddKt",
+          "name": "PrivacyPolicy",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicPrivacyPolicy.tsx",
+          "importSpec": {
+            "modulePath": "PrivacyPolicy.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicPrivacyPolicy.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "euCLiUrO8v",
+          "name": "ContactUs",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicContactUs.tsx",
+          "importSpec": {
+            "modulePath": "ContactUs.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicContactUs.module.css",
           "scheme": "blackbox",
           "componentType": "page"
         }
