@@ -63,7 +63,7 @@
     {
       "projectId": "ejbt2NrqsHvgg4iLFGMHN",
       "projectApiToken": "hL7kq19rVlfsHySiQkxV7Pkpc5wZ6EcbcP2Qdtyj1vbGMW1ehqwEEhUlUYCisq3xluev6uSPiVxK1x98Y4dA",
-      "projectName": "Blank project",
+      "projectName": "Betboard",
       "version": "latest",
       "cssFilePath": "plasmic/blank_project/plasmic_blank_project.module.css",
       "components": [
@@ -303,6 +303,12 @@
         "name": "Screen",
         "projectId": "ejbt2NrqsHvgg4iLFGMHN",
         "contextFilePath": "plasmic/blank_project/PlasmicGlobalVariant__Screen.tsx"
+      },
+      {
+        "id": "oQfrUCXWis",
+        "name": "Experiment",
+        "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+        "contextFilePath": "plasmic/betboard/PlasmicGlobalVariant__Experiment.tsx"
       }
     ]
   },
