@@ -261,6 +261,19 @@
           "cssFilePath": "plasmic/blank_project/PlasmicWelcomeBonusUpTo300.module.css",
           "scheme": "blackbox",
           "componentType": "page"
+        },
+        {
+          "id": "uQVmc5_LqC",
+          "name": "Article",
+          "type": "managed",
+          "projectId": "ejbt2NrqsHvgg4iLFGMHN",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicArticle.tsx",
+          "importSpec": {
+            "modulePath": "Article.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicArticle.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
         }
       ],
       "icons": [],
